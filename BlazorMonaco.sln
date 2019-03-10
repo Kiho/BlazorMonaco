@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMonaco", "BlazorMonaco\BlazorMonaco.csproj", "{D9ED8173-16DE-4674-BE61-0E88EC4B85AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorMonaco", "src\BlazorMonaco\BlazorMonaco.csproj", "{D9ED8173-16DE-4674-BE61-0E88EC4B85AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonacoTest", "MonacoTest\MonacoTest.csproj", "{451CB7CA-9CF4-400C-AE58-2496C3BE4314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MonacoTest", "src\MonacoTest\MonacoTest.csproj", "{451CB7CA-9CF4-400C-AE58-2496C3BE4314}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
