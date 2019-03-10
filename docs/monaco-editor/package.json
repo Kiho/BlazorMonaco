@@ -1,0 +1,129 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "monaco-editor@^0.15.6",
+        "scope": null,
+        "escapedName": "monaco-editor",
+        "name": "monaco-editor",
+        "rawSpec": "^0.15.6",
+        "spec": ">=0.15.6 <0.16.0",
+        "type": "range"
+      },
+      "D:\\work\\blazor\\monaco-js"
+    ]
+  ],
+  "_from": "monaco-editor@^0.15.6",
+  "_hasShrinkwrap": false,
+  "_id": "monaco-editor@0.15.6",
+  "_location": "/monaco-editor",
+  "_nodeVersion": "8.12.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/monaco-editor_0.15.6_1542972165173_0.22475058021306116"
+  },
+  "_npmUser": {
+    "name": "alexandrudima",
+    "email": "alexdima@microsoft.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "monaco-editor@^0.15.6",
+    "scope": null,
+    "escapedName": "monaco-editor",
+    "name": "monaco-editor",
+    "rawSpec": "^0.15.6",
+    "spec": ">=0.15.6 <0.16.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/monaco-editor/-/monaco-editor-0.15.6.tgz",
+  "_shasum": "d63b3b06f86f803464f003b252627c3eb4a09483",
+  "_shrinkwrap": null,
+  "_spec": "monaco-editor@^0.15.6",
+  "_where": "D:\\work\\blazor\\monaco-js",
+  "author": {
+    "name": "Microsoft Corporation"
+  },
+  "bugs": {
+    "url": "https://github.com/Microsoft/monaco-editor/issues"
+  },
+  "dependencies": {},
+  "description": "A browser based code editor",
+  "devDependencies": {
+    "clean-css": "^4.2.1",
+    "event-stream": "3.3.4",
+    "gulp": "^3.9.1",
+    "gulp-typedoc": "^2.2.0",
+    "http-server": "^0.11.1",
+    "monaco-css": "2.3.0",
+    "monaco-editor-core": "0.15.5",
+    "monaco-html": "2.3.0",
+    "monaco-json": "2.3.0",
+    "monaco-languages": "1.6.0",
+    "monaco-typescript": "3.3.1",
+    "rimraf": "^2.6.2",
+    "typedoc": "^0.11.1",
+    "typescript": "^3.0.1",
+    "uncss": "^0.16.2",
+    "vinyl": "^0.5.3"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-JoU9V9k6KqT9R9Tiw1RTU8ohZ+Xnf9DMg6Ktqqw5hILumwmq7xqa/KLXw513uTUsWbhtnHoSJYYR++u3pkyxJg==",
+    "shasum": "d63b3b06f86f803464f003b252627c3eb4a09483",
+    "tarball": "https://registry.npmjs.org/monaco-editor/-/monaco-editor-0.15.6.tgz",
+    "fileCount": 938,
+    "unpackedSize": 57329333,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb9+MGCRA9TVsSAnZWagAAfqkP/RGhQIS/grTvGQbUAlb+\nHXsAyjSbjaxKV4iYC1RUiXkVXWYinhdBFVcMyNCSumSYKoHu0W+SVqpuo+Fw\n/lumnhbgGx/DtrlG/iH8m7Ki5MkN2vXy7jdVzimrSOUr6ZQDH+PvlpDMS5hZ\nCBP/vPZYdodBxoJAo6JZTS8fZocyS+E0KEjCUhzP1HIjWpD+LEVVkwvE47Hz\nNSSnejcQnDyozM7VKTycKuQkJxn8nOlWQCwPd28J+dm40TdLypy0aVPqtl5a\nl76jhJFkBNbGvmgvjgHqfb7uVXRvqRNKb/gnlfNQVJya6uiz9xstxP0cs8/j\nofvN60f8tJd1ROZqkKvhfE7xy4NJJJVHhER1l5PJMnDN8PiYvtcAO2VLVjqq\ndsBKs9ov06KqMRD4NrQX6KRGvCjmx9IMU1Hh6NdNSHp0tvJYLJdWz6WdGtQL\nOsCAMJiWa9LBM0ygI7UuKhUSaSHz80rYQginkVuPhlO+BsvAwYF/pSDJGc+5\nEFN4/IObRJhfOVoY0UJEk+bkg0vDfatXGuZ2KBFkr6PfF+qdh9WHRhQ2h7j/\nTU3I6iiJxL42mAaaanBVOLIDd5ni72cIVkQu3Q5VkfmXu8ccBJ4BNyF1KAmh\n8SUe1JE19IW38+aLl/N4X14G1IjAXv5DKv+zAcwiF9uoxdNrX2HeTsX8gl9Y\nzyAG\r\n=fvO7\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "homepage": "https://github.com/Microsoft/monaco-editor#readme",
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "aeschli",
+      "email": "martinae@microsoft.com"
+    },
+    {
+      "name": "alexandrudima",
+      "email": "alexdima@microsoft.com"
+    },
+    {
+      "name": "egamma",
+      "email": "egamma@microsoft.com"
+    },
+    {
+      "name": "jrieken",
+      "email": "jrieken@microsoft.com"
+    },
+    {
+      "name": "microsoft",
+      "email": "npmjs@microsoft.com"
+    },
+    {
+      "name": "rebornix",
+      "email": "penn.lv@gmail.com"
+    }
+  ],
+  "module": "./esm/vs/editor/editor.main.js",
+  "name": "monaco-editor",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "# Monaco Editor\r\n\r\n[![Build Status](https://dev.azure.com/ms/monaco-editor/_apis/build/status/microsoft.monaco-editor?label=website)](https://dev.azure.com/ms/monaco-editor/_build/latest?definitionId=3)\r\n\r\nThe Monaco Editor is the code editor which powers [VS Code](https://github.com/Microsoft/vscode), with the features better described [here](https://code.visualstudio.com/docs/editor/editingevolved).\r\n\r\nPlease note that this repository contains no source code for the code editor, it only contains the scripts to package everything together and ship the `monaco-editor` npm module.\r\n\r\n![image](https://cloud.githubusercontent.com/assets/5047891/19600675/5eaae9e6-97a6-11e6-97ad-93903167d8ba.png)\r\n\r\n## Try it out\r\n\r\nTry the editor out [on our website](https://microsoft.github.io/monaco-editor/index.html).\r\n\r\n## Installing\r\n\r\n```\r\n$ npm install monaco-editor\r\n```\r\n\r\nYou will get:\r\n* inside `esm`: ESM version of the editor (compatible with e.g. webpack)\r\n* inside `dev`: AMD bundled, not minified\r\n* inside `min`: AMD bundled, and minified\r\n* inside `min-maps`: source maps for `min`\r\n* `monaco.d.ts`: this specifies the API of the editor (this is what is actually versioned, everything else is considered private and might break with any release).\r\n\r\nIt is recommended to develop against the `dev` version, and in production to use the `min` version.\r\n\r\n## Documentation\r\n\r\n* Learn how to integrate the editor with these [complete samples](https://github.com/Microsoft/monaco-editor-samples/).\r\n    * [Integrate the AMD version](./docs/integrate-amd.md).\r\n    * [Integrate the AMD version cross-domain](./docs/integrate-amd-cross.md)\r\n    * [Integrate the ESM version](./docs/integrate-esm.md)\r\n* Learn how to use the editor API and try out your own customizations in the [playground](https://microsoft.github.io/monaco-editor/playground.html).\r\n* Explore the [API docs](https://microsoft.github.io/monaco-editor/api/index.html) or read them straight from [`monaco.d.ts`](https://github.com/Microsoft/monaco-editor/blob/master/website/playground/monaco.d.ts.txt).\r\n* Read [this guide](https://github.com/Microsoft/monaco-editor/wiki/Accessibility-Guide-for-Integrators) to ensure the editor is accessible to all your users!\r\n* Create a Monarch tokenizer for a new programming language [in the Monarch playground](https://microsoft.github.io/monaco-editor/monarch.html).\r\n* Ask questions on [StackOverflow](https://stackoverflow.com/questions/tagged/monaco-editor)! Search open and closed issues, there are a lot of tips in there!\r\n\r\n## Issues\r\n\r\nCreate [issues](https://github.com/Microsoft/monaco-editor/issues) in this repository for anything related to the Monaco Editor. Always mention **the version** of the editor when creating issues and **the browser** you're having trouble in. Please search for existing issues to avoid duplicates.\r\n\r\n## Known issues\r\nIn IE 11, the editor must be surrounded in the body element, otherwise the hit testing performed for mouse operations does not work. You can inspect this using F12 and click on the body element and confirm that visually it surrounds the editor.\r\n\r\n## FAQ\r\n\r\n❓ **What is the relationship between VS Code and the Monaco Editor?**\r\n\r\nThe Monaco Editor is generated straight from VS Code's sources with some shims around services the code needs to make it run in a web browser outside of its home.\r\n\r\n❓ **What is the relationship between VS Code's version and the Monaco Editor's version?**\r\n\r\nNone. The Monaco Editor is a library and it reflects directly the source code.\r\n\r\n❓ **I've written an extension for VS Code, will it work on the Monaco Editor in a browser?**\r\n\r\nNo.\r\n\r\n> Note: If the extension is fully based on the [LSP](https://microsoft.github.io/language-server-protocol/) and if the language server is authored in JavaScript, then it would be possible.\r\n\r\n❓ **Why all these web workers and why should I care?**\r\n\r\nLanguage services create web workers to compute heavy stuff outside of the UI thread. They cost hardly anything in terms of resource overhead and you shouldn't worry too much about them, as long as you get them to work (see above the cross-domain case).\r\n\r\n❓ **What is this `loader.js`? Can I use `require.js`?**\r\n\r\nIt is an AMD loader that we use in VS Code. Yes.\r\n\r\n❓ **I see the warning \"Could not create web worker\". What should I do?**\r\n\r\nHTML5 does not allow pages loaded on `file://` to create web workers. Please load the editor with a web server on `http://` or `https://` schemes. Please also see the cross-domain case above.\r\n\r\n❓ **Is the editor supported in mobile browsers or mobile web app frameworks?**\r\n\r\nNo.\r\n\r\n❓ **Why doesn't the editor support TextMate grammars?**\r\n\r\n* All the regular expressions in TM grammars are based on [oniguruma](https://github.com/kkos/oniguruma), a regular expression library written in C.\r\n* The only way to interpret the grammars and get anywhere near original fidelity is to use the exact same regular expression library (with its custom syntax constructs).\r\n* In VSCode, our runtime is node.js and we can use a node native module that exposes the library to JavaScript.\r\n* In Monaco, we are constrained to a browser environment where we cannot do anything similar.\r\n* We have experimented with Emscripten to compile the C library to asm.js, but performance was very poor even in Firefox (10x slower) and extremely poor in Chrome (100x slower).\r\n* We can revisit this once WebAssembly gets traction in the major browsers, but we will still need to consider the browser matrix we support, i.e. if we support IE11 and only Edge will add WebAssembly support, what will the experience be in IE11, etc.\r\n\r\n## Development setup\r\n\r\nPlease see [CONTRIBUTING](./CONTRIBUTING.md)\r\n\r\n## Code of Conduct\r\n\r\nThis project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.\r\n\r\n\r\n## License\r\nLicensed under the [MIT](https://github.com/Microsoft/monaco-editor/blob/master/LICENSE.md) License.\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microsoft/monaco-editor.git"
+  },
+  "scripts": {
+    "build-website": "gulp build-website",
+    "release": "gulp release",
+    "simpleserver": "gulp simpleserver",
+    "website": "gulp website"
+  },
+  "typings": "./esm/vs/editor/editor.api.d.ts",
+  "version": "0.15.6"
+}

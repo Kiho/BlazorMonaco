@@ -171,6 +171,11 @@ csx/
 ecf/
 rcf/
 
+# Include dlls in the docs folder
+!/docs/*
+!/docs/_framework/*
+!/docs/_framework/_bin/* 
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
