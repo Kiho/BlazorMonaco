@@ -3,14 +3,14 @@
 @using BlazorMonaco.Shared
 
 <h2>Monaco using Blazor</h2>
-<div class="row">
+<div>
     <button class="btn btn-primary" onclick="@Reset">Clear</button>
     <button class="btn btn-primary" onclick="@Update">Read</button>
 </div>
-
+<p></p>
 <MonacoEditor ref="_editor" EditorModel="@_editorModel" Width="600" Height="300" />
 
-@functions {
+    @functions {
     EditorModel _editorModel { get; set; }
     MonacoEditor _editor;
 
@@ -24,10 +24,10 @@
 // Awesomeness
 public class Test
 {
-    public void X()
-    {
-        Console.WriteLine(""Hello world!"");
-    }
+public void X()
+{
+    Console.WriteLine(""Hello world!"");
+}
 }"
         };
         await base.OnInitAsync();
@@ -42,4 +42,4 @@ public class Test
     {
         _editor.EditorSetValue("");
     }
-}
+    }
